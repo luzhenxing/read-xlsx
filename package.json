@@ -1,0 +1,23 @@
+{
+  "name": "read-xlsx",
+  "version": "1.0.0",
+  "description": "read excel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luzhenxing/read-xlsx.git"
+  },
+  "author": "zhenxing.lu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luzhenxing/read-xlsx/issues"
+  },
+  "homepage": "https://github.com/luzhenxing/read-xlsx#readme",
+  "dependencies": {
+    "js-xlsx": "^0.8.22",
+    "xlsx": "^0.12.5"
+  }
+}
